@@ -36,5 +36,7 @@
 - Althea Clarine - FACEBOOK
 ###
 ## 𑄝੭ Tech Stack:
-C++ Python Canva
+- C++
+- Python
+- Canva
 
